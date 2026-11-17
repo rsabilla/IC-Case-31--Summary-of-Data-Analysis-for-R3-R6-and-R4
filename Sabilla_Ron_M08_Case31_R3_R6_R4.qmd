@@ -502,5 +502,5 @@ The follow-up offers a likely explanation. Members outside the HQ area are **mor
 
 # Appendix
 
--   **GitHub Repo:** <https://github.com/rsabilla/IC-M08-Case-31-Summary-R3-R6-R4>
--   **GitHub Pages:** <https://rsabilla.github.io/IC-M08-Case-31-Summary-R3-R6-R4/>
+-   **GitHub Repo:** <https://github.com/rsabilla/IC-Case-31--Summary-of-Data-Analysis-for-R3-R6-and-R4.git>
+-   **GitHub Pages:** <https://rsabilla.github.io/IC-Case-31--Summary-of-Data-Analysis-for-R3-R6-and-R4/>
